@@ -8,3 +8,5 @@ Soy nueva en la programación, recientemente terminé un curso y este es mi prim
 Si encuentran algun error o tienen alguna idea de agregar/mejorar, sean libres de comentarlo.
 
 Espero les sirva, ahi mismo estan mis redes. Muchas gracias!
+
+https://linktr.ee/mawita
