@@ -11,6 +11,6 @@ Espero les sirva, ahi mismo estan mis redes. Muchas gracias!
 
 https://linktr.ee/mawita
 
-LOG
-v1.0.0
-Primera version, contar energias, cartas, opacidad, redes, opcion de mantener arriba de otras aplicaciones.
+LOGS:
+
+v1.0.0 Primera version, contar energias, cartas, opacidad, redes, opcion de mantener arriba de otras aplicaciones.
