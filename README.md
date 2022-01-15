@@ -16,3 +16,5 @@ LOGS:
 v1.0.0 Primera version, contar energias, cartas, opacidad, redes, opcion de mantener arriba de otras aplicaciones.
 
 v1.0.1 Idioma agregados: Inglés, Portugués.
+
+v1.0.2 Contador de cartas eliminado, contador mejorado.
